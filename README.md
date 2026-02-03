@@ -1,4 +1,4 @@
-![](https://github.com/Nos0kkk/Nos0kkk/i.jpeg)
+![](i.jpeg)
 ![](https://komarev.com/ghpvc/?username=Nos0kkk)
 
 
