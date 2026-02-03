@@ -7,3 +7,4 @@ I am a developer of console programs, utilities, graphical interfaces, and a
 few, and a few games
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nos0kkk&theme=solarized_dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nos0kkk)](https://github.com/anuraghazra/github-readme-stats)
