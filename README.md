@@ -6,6 +6,4 @@ I'm Nos0kkk, I'm a C++ coder
 I am a developer of console programs, utilities, graphical interfaces, and a
 few, and a few games
 
-<div aligm="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nos0kkk&theme=aura_dark)
-</div>
