@@ -3,7 +3,7 @@
 
 
 👋 I'm Nos0kkk, I'm a ```C++``` coder.
-I am a developer of ```console programs```, ```TUI```, ```utilities```, ```graphical interfaces```, and a few ```gamedev``` 🌐 
+I am a developer of ```TUI```, ```utilities```, ```GUI```, ```CLI```, ```API``` and a few ```gamedev``` 🌐 
 
 [![My Skills](https://skillicons.dev/icons?i=arch,c,cpp,cmake,gtk,linux)](https://skillicons.dev)
 
